@@ -1,0 +1,15 @@
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+.blurb {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 250px;
+}
